@@ -26,6 +26,7 @@ Welcome! I'm **Rima Handewi**, a data-driven digital marketer passionate about t
 **Tools**: Python · SQL · Power BI  
 **Description**:  
 Analyzed multi-channel ad campaign data to evaluate the effectiveness of Instagram, TikTok, and Google Ads. Measured CTR, CPC, conversion rate, and ROAS to guide data-driven budget allocation and platform optimization.
+[View Project →](https://github.com/username/project-repo)
 
 ---
 
@@ -33,6 +34,7 @@ Analyzed multi-channel ad campaign data to evaluate the effectiveness of Instagr
 **Tools**: Python (Pandas, Scikit-learn) · SQL · Power BI  
 **Description**:  
 Conducted RFM analysis and clustering to segment customers based on purchasing behavior, demographics, and engagement. Created a dashboard to support targeted marketing and customer retention strategies.
+[View Project →](https://github.com/username/project-repo)
 
 ---
 
@@ -40,6 +42,7 @@ Conducted RFM analysis and clustering to segment customers based on purchasing b
 **Tools**: Supabase (PostgreSQL) · Looker  
 **Description**:  
 Performed end-to-end analysis of e-commerce transactions using a modern data stack. Investigated sales performance, product trends, and customer behavior to support decision-making through interactive dashboards.
+[View Project →](https://github.com/username/project-repo)
 
 ---
 
