@@ -42,7 +42,7 @@ Conducted RFM analysis and clustering to segment customers based on purchasing b
 **Tools**: Supabase (PostgreSQL) · Looker  
 **Description**:  
 Performed end-to-end analysis of e-commerce transactions using a modern data stack. Investigated sales performance, product trends, and customer behavior to support decision-making through interactive dashboards.
-[View Project →](https://github.com/username/project-repo)
+[View Project →]](projects/03-retail-sales-analysis)
 
 ---
 
